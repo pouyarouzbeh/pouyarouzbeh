@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Pouya Rouzbeh Tehrani  
 
-<!--
-**pouyarouzbeh/pouyarouzbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Official Computer Science Teacher at the Ministry of Education**  
+💻 **Front-End Developer | React Specialist | Programming Instructor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+I’m a passionate **educator and front-end developer** who loves turning complex programming concepts into clear, practical lessons.  
+As a high school computer science teacher and professional developer, I focus on helping students bridge the gap between **theory and real-world projects**.  
+
+I enjoy working with modern web technologies — especially **React.js** — and I’m constantly exploring new tools to create engaging and efficient user experiences.  
+
+---
+
+### 🛠️ Skills & Technologies  
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks & Libraries:** React.js (Hooks, Context API, Routing)  
+- **UI & Styling:** Bootstrap, Tailwind CSS  
+- **APIs & Integration:** RESTful API, Fetch/Axios  
+- **Version Control:** Git & GitHub  
+- **Teaching:** Curriculum design, project-based learning, student mentoring  
+
+---
+
+### 🎓 Teaching & Educational Work  
+
+- Teaching web development courses: HTML, CSS, JavaScript, React  
+- Designing **hands-on learning paths** for technical high school students  
+- Guiding beginner developers through their first real-world front-end projects  
+- Combining education with industry practices to build solid programming foundations  
+
+---
+
+### 📫 Connect With Me  
+[![Email](pwyarwzbhthraby@gmail.com)  
+
+---
+
+⭐️ *If you find my projects or educational work helpful, feel free to follow or star a repository!*
