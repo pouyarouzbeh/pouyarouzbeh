@@ -34,7 +34,7 @@ I enjoy working with modern web technologies — especially **React.js** — and
 ---
 
 ### 📫 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-pwyarwzbhthraby%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:pwyarwzbhthrany@gmail.com)
+[![Email](https://img.shields.io/badge/Email-pwyarwzbhthrany%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:pwyarwzbhthrany@gmail.com)
 
 
 ---
