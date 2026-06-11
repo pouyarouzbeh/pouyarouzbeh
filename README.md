@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-puyaro.ir-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://puyaro.ir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pouya--rouzbeh--tehrani-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-rouzbeh-tehrani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-rouzbeh-tehrani/)
 [![Email](https://img.shields.io/badge/Email-roozbehtpooya@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roozbehtpooya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pouyarouzbeh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pouyarouzbeh)
 ![Profile Views](https://komarev.com/ghpvc/?username=pouyarouzbeh&style=flat-square&color=58a6ff&label=Profile+Views)
