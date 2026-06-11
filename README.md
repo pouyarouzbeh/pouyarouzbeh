@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=180&section=header&text=Pouya%20Rouzbeh%20Tehrani&fontSize=38&fontColor=fff&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%94%20React%20%26%20Next.js&descAlignY=62&descSize=17&animation=fadeIn" />
+# Hi, I'm Pouya Rouzbeh Tehrani 👋
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
-</a>
+### Frontend Developer — React & Next.js Specialist
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Open+to+Remote+Opportunities+%F0%9F%8C%8D" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-puyaro.ir-58a6ff?style=flat-square&logo=vercel&logoColor=white)](https://puyaro.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-rouzbeh-tehrani/)
-[![Email](https://img.shields.io/badge/Email-roozbehtpooya@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roozbehtpooya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:roozbehtpooya@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-pouyarouzbeh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pouyarouzbeh)
 ![Profile Views](https://komarev.com/ghpvc/?username=pouyarouzbeh&style=flat-square&color=58a6ff&label=Profile+Views)
 
@@ -35,7 +35,7 @@ const pouya = {
     "Instructing Frontend courses at 3 institutes",
   ],
 
-  openTo:   "Remote frontend opportunities worldwide 🌍",
+  openTo: "Remote frontend opportunities worldwide 🌍",
 };
 ```
 
@@ -78,7 +78,7 @@ const pouya = {
 | **Roshdify** | E-commerce platform builder — products, cart, payments & admin dashboard | React · Next.js · TypeScript · Tailwind | [roshdify.ir](https://roshdify.ir) |
 | **CivEng Consulting** | Corporate SPA for an Australian civil engineering firm | React · Tailwind · SEO | [civengconsulting.com.au](https://civengconsulting.com.au) |
 | **Amouzeshyar System** | Multi-step pre-registration portal for Shahid Rajaee University | React · MUI · JavaScript | — |
-| **Personal Portfolio** | My portfolio with animations and project showcase | Next.js · Tailwind · Framer Motion | [puyaro.ir](https://puyaro.ir) |
+| **Personal Portfolio** | Portfolio with animations and project showcase | Next.js · Tailwind · Framer Motion | [puyaro.ir](https://puyaro.ir) |
 
 ---
 
@@ -95,10 +95,8 @@ Feb 2026              🏗️  CivEng Consulting — Remote, Australia
                            Corporate SPA · React · Tailwind · SEO
 
 Oct 2025 – Present    🏫  CS Teacher — Vocational High School, Gorgan
-                           Web development & programming
 
-Jul 2025 – Present    👨‍💻  Frontend Instructor — Sepehrtek · Jahanara · Noafarin
-                           Teaching React · JavaScript · CSS  (part-time)
+Jul 2025 – Present    👨‍💻  Frontend Instructor — Sepehrtek · Jahanara · Noafarin (part-time)
 ```
 
 ---
@@ -107,15 +105,14 @@ Jul 2025 – Present    👨‍💻  Frontend Instructor — Sepehrtek · Jahana
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pouyarouzbeh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyarouzbeh&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pouyarouzbeh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pouyarouzbeh&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=pouyarouzbeh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img width="55%" src="https://streak-stats.demolab.com/?user=pouyarouzbeh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
@@ -135,5 +132,3 @@ Jul 2025 – Present    👨‍💻  Frontend Instructor — Sepehrtek · Jahana
 > *"Clean code. Clear thinking. Crafted experiences."*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" />
